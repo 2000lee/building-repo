@@ -1,2 +1,2 @@
 #Demo
-this is an appartemnt search sitation
+this is an appartment search sitation
